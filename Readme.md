@@ -1,5 +1,5 @@
 ## Resumen de texto en español con Transformers // Abstractive summarization in Spanish with Transformers
-Este trabajo es parte de la tesis de Maestría en Data Mining titulada "Generación de resúmenes de texto en español", por Leonardo Ignacio Córdoba. La defensa puede ser vista [aquí](https://www.youtube.com/watch?v=6TZbdWj3MxE&t=4s). 
+Este trabajo es parte de la tesis de Maestría en Data Mining titulada "Generación de resúmenes de texto en español", por Leonardo Ignacio Córdoba. La defensa puede ser vista [aquí](https://www.youtube.com/watch?v=6TZbdWj3MxE&t=4s), y la tesis se encuentra en la raíz de este repositorio. 
 
 
 En este repositorio se guardan ejemplos de uso de 5 modelos: dos modelos mt5 especializados en las tareas de MLSUM y de CC-NEWS-es-titles, ambas tareas de resumen, dos modelos Beto2Beto especializados en las mismas tareas y de Beto2Beto.
